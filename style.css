@@ -1,0 +1,249 @@
+html{
+	margin: 0; 
+	padding: 0; 
+	width: 100% ; 
+	height: 100vh ; 
+}
+body{
+	margin: 0; 
+	padding: 0; 
+	width: 100% ; 
+	height: 100vh ;
+	background-color: #ebedf4 ; 
+}
+.backroundzar9a{
+	float:right;
+	background: #285296 ;
+	width: 100%;
+	height: 2cm;
+}
+.p1{
+	color:white;
+	position: relative;
+	top:6px;
+	font-size: 14px;
+}
+.p2{
+	color:white;
+	position: relative;
+	top:6px;
+	font-size: 14px;
+}
+.adresse{
+	float: left;
+	position: relative; 
+	left:730px;
+	top:-148px;
+}
+.modedepasse{
+	float:left;
+	position: relative; 
+	left:750px;
+	top:-148px;
+}
+
+
+header h2 {
+	color:white;
+	font-size: 50px;
+	position: relative;
+	left:180px;
+	top: -30px
+}
+.btn{
+	
+	position: relative;
+	color: white;
+	background-color:#285296;
+	border:1px solid black; 
+	left:790px;
+	top:-104px;
+	cursor: pointer;
+}
+.a1{
+	float: right;
+	text-decoration: none;
+	color: #A9A9A9;
+	font-size: 12px;
+	position: relative; 
+	right: 6.83cm;
+	top:-82px;
+	cursor: pointer;
+}
+input{
+	width:4.5cm; 
+}
+article h3{
+	position: relative;
+	left:4.6cm;
+	top:1.2cm;
+	font-size: 22px;  
+	color:#285296 ;
+}
+section{
+	position: relative;
+	top:0.6cm;
+	left: 4.5cm;
+}
+aside{
+	transform: translate(70% 70%); 
+	position: absolute;
+	top:70%;
+	left:70%;
+}
+aside h1 {
+	  font-family: Arial, Helvetica, sans-serif; 
+	  font-size: 40px;
+	  position: relative;
+	  top:-8.6cm;
+	  left:-4.7cm;
+}
+aside .p6 {
+	  font-family: "Times New Roman", Times, serif;
+	  font-size: 22px; 
+	  position: relative; 
+	  top:-9.3cm;
+	  left:-4.7cm;
+}
+.prenom {
+	background:none; 
+	background-color:#ffffff ; 
+	width: 4.8cm ; 
+	height: 0.9cm; 
+	border:1px solid #A9A9A9 ; 
+	border-radius:4px; 
+	font-size: 16px; 
+	padding: 8px;
+	position: relative;
+	top:-9.5cm;
+	left:-4.7cm;
+}
+
+.nomdefamille {
+	background:none; 
+	background-color:#ffffff ; 
+	width: 4.8cm ; 
+	height: 0.9cm; 
+	border:1px solid #A9A9A9 ; 
+	border-radius:4px; 
+	font-size: 16px; 
+	padding: 8px;
+	position: relative;
+	top:-9.5cm;
+	left:-4.5cm;
+}
+.numerodemobile {
+	background:none; 
+	background-color:#ffffff ; 
+	width: 10.4cm ; 
+	height: 0.9cm; 
+	border:1px solid #A9A9A9 ; 
+	border-radius:4px; 
+	font-size: 16px; 
+	padding: 8px;
+	position: relative;
+	top:-9.2cm;
+	left:-4.7cm;
+}
+.password {
+	background:none; 
+	background-color:#ffffff ; 
+	width: 10.4cm ; 
+	height: 0.9cm; 
+	border:1px solid #A9A9A9 ; 
+	border-radius:4px; 
+	font-size: 16px; 
+	padding: 8px;
+	position: relative;
+	top:-8.9cm;
+	left:-4.7cm;   
+}
+
+.datedenaissance{
+	 font-family: sans-serif ;
+	  font-size: 20px; 
+	  color:#90949c; 
+	  position: relative; 
+	  top:-8.7cm;
+	  left:-4.7cm;
+}
+
+.select1{
+	width: 1.5cm;
+	height: 0.8cm;
+	position: relative;
+	top: -9cm;
+	left:-4.7cm;
+}
+.select2{
+	width: 1.5cm;
+	height: 0.8cm;
+	position: relative;
+	top: -9cm;
+	left:-4.8cm;
+}
+.select3{
+	width: 1.5cm;
+	height: 0.8cm;
+	position: relative;
+	top: -9cm;
+	left:-4.9cm;
+}
+.genre{
+	  font-size: 20px; 
+	  color:#90949c; 
+	  position: relative; 
+	  top:-9.4cm;
+	  left:-4.7cm;
+}
+.g1{
+	font-size: 20px;
+	position: relative; 
+	  top:-9.4cm;
+	  left:-6.8cm;
+}
+.g2{
+	font-size: 20px;
+	position: relative; 
+	  top:-10.1cm;
+	  left:-3.4cm;
+}
+.g3{
+	font-size: 20px;
+	position: relative; 
+	  top:-10.7cm;
+	  left:0cm;
+}
+label{
+	position: relative;
+	left: -2cm ; 
+}
+a{
+	text-decoration: none;
+}
+.p8{
+	font-size: 12px;
+	color: #A9A9A9;
+	position: relative;
+	top: -10.5cm ; 
+	left:-4.5cm;
+}
+.bttn{
+	width:5.5cm;
+	height:1cm;
+	position: relative; 
+	top:-10.4cm;
+	left:-4.5cm;
+	background-color:#228B22;
+	border: 1px solid #006400 ; 
+	border-radius: 4px; 
+	font-size: 20px;
+	color:white;
+	cursor: pointer;
+}
+.p50{
+	color:#696969; 
+	position: relative; 
+	top:-9.8cm; 
+	left:-4.5cm;
+}
